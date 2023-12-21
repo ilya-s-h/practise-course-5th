@@ -20,11 +20,11 @@
 
 Веб-портфолио формируется как Git-репозиторий и содержит все загруженные в него результаты выполнения заданий, включая слайды. Пример репозитория: https://git.herzen.spb.ru/igossoudarev/clouds
 
-[Ссылка на выполненное задание](/ИСР%201.1.pdf)
+[Ссылка на выполненное задание](/ИСР1.1.pdf)
 
 * Ссылка на выполненное задание в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D0%25201.1.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D01.1.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## Задание 1.2
 
@@ -32,11 +32,11 @@
 
 Подготовить рабочие материалы для параграфа 1.1 магистерской диссертации.
 
-[Ссылка на выполненное задание](/ИСР%201.2.pdf)
+[Ссылка на выполненное задание](/ИСР1.2.pdf)
 
 * Ссылка на выполненное задание в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D0%25201.2.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D01.2.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## Задание 1.3
 
@@ -44,11 +44,11 @@
 
 Анализ (текстовый файл) (опубликовать в электронном портфолио, ссылка в отчете)
 
-[Ссылка на выполненное задание](/ИСР%201.3.pdf)
+[Ссылка на выполненное задание](/ИСР1.3.pdf)
 
 * Ссылка на выполненное задание в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D0%25201.3.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D01.3.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## Задание 1.4
 
@@ -56,11 +56,11 @@
 
 Написать рецензию на статью.
 
-[Ссылка на выполненное задание](/ИСР%201.4.pdf)
+[Ссылка на выполненное задание](/ИСР1.4.pdf)
 
 * Ссылка на выполненное задание в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D0%25201.4.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C8%D1%D01.4.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## ВСР
 
@@ -70,11 +70,11 @@
 
 Глоссарий (текстовый файл) (опубликовать в электронном портфолио, ссылка в отчете)
 
-[Ссылка на выполненное задание](/ВСР%202.1.pdf)
+[Ссылка на выполненное задание](/ВСР2.1.pdf)
 
 * Ссылка на выполненное задание в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C2%D1%D0%25202.1.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-5th%2Fblob%2Fmain%2F%C2%D1%D02.1.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 
 
